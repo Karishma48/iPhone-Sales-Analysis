@@ -22,3 +22,6 @@ Scatter Plots to explore the relationship between price, discounts, and ratings.
 The dataset was sourced from Kaggle and underwent a meticulous process of cleaning, organizing, and transforming to deliver actionable insights.
 
 📊 Why this project?
+
+Analyzing sales trends is critical for marketing strategies, and this model is designed to help businesses make data-driven decisions effectively.
+I’d love to hear your feedback! Feel free to check it out and let me know your thoughts in the comments below. 
