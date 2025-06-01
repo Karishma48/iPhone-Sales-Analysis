@@ -22,17 +22,3 @@ Scatter Plots to explore the relationship between price, discounts, and ratings.
 The dataset was sourced from Kaggle and underwent a meticulous process of cleaning, organizing, and transforming to deliver actionable insights.
 
 📊 Why this project?
-
-
-# Coding
-
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import datetime
-from time import strftime
-%matplotlib inline
-import matplotlib.ticker as mtick
-Analyzing sales trends is critical for marketing strategies, and this model is designed to help businesses make data-driven decisions effectively.
-I’d love to hear your feedback! Feel free to check it out and let me know your thoughts in the comments below. 
